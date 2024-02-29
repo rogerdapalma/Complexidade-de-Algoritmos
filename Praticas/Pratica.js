@@ -7,7 +7,6 @@ function somarDoisValores(valor1, valor2) {
   console.log(resultado);
 /*
 _______________________________
-|main            |            |
 |resultado       | int        |
 |somarDoisValores| v1+v2      |
 |V1              | int        |  
