@@ -9,10 +9,11 @@ function somarDoisValores(valor1, valor2) {
  ___________________________________
 | Variável       | Tipo           |
 |----------------|----------------|
+| MAIN           |      *         |
 | resultado      | int            |
 | somarDoisValores(v1, v2) | v1 + v2 |
-| v1             | int            |
-| v2             | int            |
+| v1             | const          |
+| v2             | const          |
 | Instrução      | atribuição     |
 |                | adição         |
 |                | impressão      |
