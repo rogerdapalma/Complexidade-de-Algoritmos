@@ -27,7 +27,7 @@ console.log(soma(2 , 5))
 ___________________________
 |main      |               |
 |X         | int           |
-|soma      | v1+v2         |
+|soma      | n1+n2         |
 |V1        | int           |
 |V2        | int           |
 |Instrução | atribuição    |
