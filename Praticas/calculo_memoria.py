@@ -35,17 +35,3 @@ ordena(lista)
 #6 instrução = 96
 
 #TOTAL = 224
-
-# prompt: como comentar multiplas linhas em python
-
-# This is a single-line comment.
-
-'''
-This is a multi-line comment.
-It can span multiple lines.
-'''
-
-"""
-This is another way to write a multi-line comment.
-It can also span multiple lines.
-"""
