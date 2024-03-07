@@ -5,7 +5,7 @@ console.log(numeroDeCaracteres);
 /*
  variavel 16 bits = 32 bits + TAM 1 bits
  instrução 16 bits = 48 bits
- Total bits = 160 bits
+ Total bits = 81 bits
  ___________________________________________
 | Variável            | Tipo               |
 |---------------------|--------------------|
