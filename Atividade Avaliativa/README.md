@@ -1,12 +1,3 @@
-# Navegue até o diretório do seu repositório Git
-cd caminho/para/seu/repositorio
-
-# Crie um novo arquivo README.md ou abra o existente
-cat > README.md <<EOL
-# Algoritmos de Multiplicação de Vetores e Matrizes
-
-Este repositório contém a implementação de três algoritmos relacionados à multiplicação de vetores e matrizes:
-
 ## Exercício 01: Multiplicação de Dois Vetores
 Implementar um algoritmo para multiplicar dois vetores (listas) de mesmo tamanho.
 
