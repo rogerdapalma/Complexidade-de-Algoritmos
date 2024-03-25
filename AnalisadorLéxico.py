@@ -53,19 +53,3 @@ def input_afd():
 
 inicializacao()
 input_afd()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://www.baixelivros.com.br/ciencias-humanas-e-sociais/artes/antigona
