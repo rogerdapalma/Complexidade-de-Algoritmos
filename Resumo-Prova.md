@@ -34,7 +34,7 @@ Sequência ordenada de instruções lógicas para solucionar um problema computa
 
 ### Tipos de Medições
 - **Complexidade Temporal:** Mede o tempo de execução com base no tamanho da entrada.
-- **Complexidade Espacial:** Avalia o uso de memória ou espaço de armazenamento necessário.
+- **Complexidade Espacial:** Avalia o uso de memória ou espaço de armazenamento necessário(todo o tipo de memoria).
 
 ### Análise de Tempo
 - **Notação Assintótica:** Uso da notação Big O para descrever a complexidade temporal.
