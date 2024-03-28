@@ -25,6 +25,16 @@
 ## Complexidade de Espaço
 - **Complexidade de Espaço:** Cálculo de memória utilizada por um programa.
 - **Tipos de Utilização de Memória:** Declarações, Atribuições, Retornos de função, Passagem de parâmetros.
+
+# Instruções a serem contadas no código fonte:
+- Atribuições
+- Atribuições diretas
+- Atribuições indiretas 
+- Retorno de função
+- Passagem de parâmetros
+- Incremento/decremento
+- Comparações
+
 - **Exercício:** Programa que retorna o maior valor em uma lista de números inteiros.
 
 ## Cronometrando a Eficiência
