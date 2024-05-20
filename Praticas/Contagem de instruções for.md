@@ -23,6 +23,33 @@ public class Main {
   }
 }
 ```
+
+```java
+import java.util.Arrays;
+
+public class Main {
+  public static void main(String[] args) {
+
+    int[] lista = { 3, 5, 7, 10, 6 }; // 1
+
+    // Chama o método para inverter o array
+    invertArray(lista); // 1
+
+    System.out.println("lista invertida: " + Arrays.toString(lista)); // 1
+  }
+
+  public static void invertArray(int[] array) {
+    int size = array.length; // 1
+    for (int i = 0; i < size / 2; i++) { // 1 + N/2 (o loop executa N/2 vezes)
+
+      int temp = array[i]; // N/2
+      array[i] = array[size - 1 - i]; // N/2
+      array[size - 1 - i] = temp; // N/2
+    }
+  }
+}
+// total 3 + 1 + (3 * N/2) = 4 + (3/2)N
+```
 ## Método Main:
 
 - `int[] lista = { 3, 5, 7, 10, 6 };` : 1 instrução
