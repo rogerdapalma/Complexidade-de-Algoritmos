@@ -1,0 +1,12 @@
+DECL int a = 10;
+DECL int b = 5;
+ADD c, a, b;
+SUB c, a, b;
+MUL c, a, b;
+DIV c, a, b;
+DECL float x = 10.5;
+DECL float y = 2.5;
+ADD z, x, y;
+SUB z, x, y;
+MUL z, x, y;
+DIV z, x, y;
